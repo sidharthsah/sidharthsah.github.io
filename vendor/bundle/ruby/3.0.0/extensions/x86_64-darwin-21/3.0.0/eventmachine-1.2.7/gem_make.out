@@ -1,0 +1,20 @@
+current directory: /Users/sidharthsah/Documents/Website/sidharthsah.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby@3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sidharthsah/Documents/Website/sidharthsah.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230622-11830-yi8x14 sitelibdir\=./.gem.20230622-11830-yi8x14 clean
+
+current directory: /Users/sidharthsah/Documents/Website/sidharthsah.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230622-11830-yi8x14 sitelibdir\=./.gem.20230622-11830-yi8x14
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/sidharthsah/Documents/Website/sidharthsah.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230622-11830-yi8x14 sitelibdir\=./.gem.20230622-11830-yi8x14 install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230622-11830-yi8x14
+
+current directory: /Users/sidharthsah/Documents/Website/sidharthsah.github.io/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230622-11830-yi8x14 sitelibdir\=./.gem.20230622-11830-yi8x14 clean
