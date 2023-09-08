@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 ![image-left](images/mstile-150x150.png){: .align-left}
-I am a PhD student in Economics at the University of Chicago. My research is in the economics of education, with a focus on peer effects among college students. I have taught undergraduate microeconomic theory and econometrics classes.
+I am a rising fifth year PhD student in Economics at the University of Chicago. I will be on the job market in 2023-24. My research is in the economics of education, with recent work on the effects of peer gender among college students. I have taught undergraduate microeconomic theory and econometrics classes.
 
-Prior to starting my PhD, I was a Stanford Law Empirical Research Fellow working for John Donohue and I earned a B.A. in Economics and Sociology from Johns Hopkins University with a minor in Mathematics.
+Prior to starting my PhD, I was a Stanford Law Empirical Research Fellow working for John Donohue.
+
+Feel free to contact me at sidharthsah1@gmail.com

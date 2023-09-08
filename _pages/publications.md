@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: "Job Market Paper"
 permalink: /publications/
 author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+*Peer Gender Composition and Undergraduate Achievement and Major Choice* (draft coming soon!)
 
-{% include base_path %}
+# Work in Progress
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+*Collusion and Financial Aid Determination in Higher Education*
