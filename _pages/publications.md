@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Job Market Paper"
-permalink: /publications/
+permalink: /research/
 author_profile: false
 ---
 
