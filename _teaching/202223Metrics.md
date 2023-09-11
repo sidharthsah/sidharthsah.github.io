@@ -11,7 +11,9 @@ location: "City, Country"
 [Evaluations](http://sidharthsah.github.io/files/metrics22/Evals.pdf)
 
   
- 
+  
+[Syllabus](http://sidharthsah.github.io/files/metrics22/Syllabus.pdf)
+  
 ## Slides
 [Introduction to Causal Inference](http://sidharthsah.github.io/files/metrics22/Introduction.pdf)
 
@@ -28,3 +30,12 @@ location: "City, Country"
 [Course Review](http://sidharthsah.github.io/files/metrics22/Course_Review.pdf)
 
 ## Problem Sets
+[Problem Set 1](http://sidharthsah.github.io/files/metrics22/Problem_Set_1.pdf) [(Solutions)](http://sidharthsah.github.io/files/metrics22/Problem_Set_1_Solutions.pdf)
+
+[Problem Set 2](http://sidharthsah.github.io/files/metrics22/Problem_Set_2.pdf) [(Solutions)](http://sidharthsah.github.io/files/metrics22/Problem_Set_2_Solutions.pdf)
+
+[Problem Set 3](http://sidharthsah.github.io/files/metrics22/Problem_Set_3.pdf) [(Solutions)](http://sidharthsah.github.io/files/metrics22/Problem_Set_3_Solutions.pdf)
+
+[Problem Set 4](http://sidharthsah.github.io/files/metrics22/Problem_Set_4.pdf) [(Solutions)](http://sidharthsah.github.io/files/metrics22/Problem_Set_4_Solutions.pdf)
+
+[Problem Set 5](http://sidharthsah.github.io/files/metrics22/Problem_Set_5.pdf) [(Solutions)](http://sidharthsah.github.io/files/metrics22/Problem_Set_5_Solutions.pdf)
