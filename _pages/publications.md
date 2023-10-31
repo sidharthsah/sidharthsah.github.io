@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-*Peer Gender Composition and Undergraduate Achievement and Major Choice* (draft coming soon!)
+[*Peer Gender Composition and Undergraduate Achievement and Major Choice*](http://sidharthsah.github.io/files/Sah_JMP.pdf)
 
 # Work in Progress
 
