@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 <img src="images/pic.jpeg" alt="Photo" width="270" title="Photo">{: .align-left}
-I am a PhD candidate in Economics at the University of Chicago. I will be starting as a Clinical Assistant Professor at the NYU Center for Data Science in the fall. My research is in the economics of education, with recent work on the effects of peer gender among college students.
+Welcome! I am a Clinical Assistant Professor at the NYU Center for Data Science, where I teach courses in general data science, causal inference, and linear regression. My research is in the economics of education, with a particular interest in college major choice.
 
-Prior to starting my PhD, I was a Stanford Law Empirical Research Fellow working for John Donohue.
+Prior to starting at NYU, I received a PhD in Economics from the University of Chicago.
 
-Feel free to contact me at sidharthsah1@gmail.com
+You can contact me at sidharthsah1@gmail.com

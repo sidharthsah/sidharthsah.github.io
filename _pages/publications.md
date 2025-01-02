@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Job Market Paper"
+title: Working Papers
 permalink: /research/
 author_profile: false
 ---
